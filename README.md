@@ -18,7 +18,7 @@ that I wanted to keep a trace of them.
 
 ### Columnar
 
-#### (hbase)[http://hbase.apache.org/]
+#### [hbase](http://hbase.apache.org/)
 _Good for large (giga, or peta bytes of data)_
 
 ### Graph
