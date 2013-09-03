@@ -16,6 +16,10 @@ _not used yet_
 
 ## NoSQL
 
+### No idea
+
+#### Cassandra
+
 ### Columnar
 
 #### [hbase](http://hbase.apache.org/)
