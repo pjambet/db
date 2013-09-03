@@ -5,14 +5,14 @@ that I wanted to keep a trace of them.
 
 ## SQL
 
-*known*
+#### postgresql
+_Used in many projects, especially https://github.com/pjambet/beech-server_
 
-- postgresql
-- mysql
+#### mysql
+_used in many small projects_
 
-*todo*
-
-- drizzle
+#### drizzle
+_not used yet_
 
 ## NoSQL
 
@@ -23,16 +23,26 @@ _Good for large (giga, or peta bytes of data)_
 
 ### Graph
 
-- orienddb
-- neo4j
+### orienddb
+_Not tried yet_
+
+### neo4j
+_not tried yet_
 
 ### Document
 
-- mongodb
-- couchdb
+#### mongodb
+
+#### couchdb
+_not used yet_
 
 ### Key Value
 
-- redis
-- riak
-- dynamodb
+#### redis
+_used as a broker with django celery_
+
+#### riak
+_not used yet_
+
+#### dynamodb
+_not used yet_
