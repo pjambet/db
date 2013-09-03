@@ -27,10 +27,11 @@ that I wanted to keep a trace of them.
 
 ### Document
 
-- riak
+- mongodb
 - couchdb
 
 ### Key Value
 
+- redis
 - riak
 - dynamodb
