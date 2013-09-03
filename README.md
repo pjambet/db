@@ -36,6 +36,9 @@ _not tried yet_
 #### couchdb
 _not used yet_
 
+#### rethinkdb
+_not tried yet_
+
 ### Key Value
 
 #### redis
