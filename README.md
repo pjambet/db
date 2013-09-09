@@ -46,8 +46,9 @@ _not tried yet_
 ### Key Value
 
 #### redis
-_used as a broker with django celery_
-_Used as a storage for a small url [shortener app](https://github.com/pjambet/urls)_
+
+- used as a broker with django celery
+- Used as a storage for a small url [shortener app](https://github.com/pjambet/urls)
 
 #### riak
 _not used yet_
