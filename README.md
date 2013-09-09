@@ -47,6 +47,7 @@ _not tried yet_
 
 #### redis
 _used as a broker with django celery_
+_Used as a storage for a small url [shortener app](https://github.com/pjambet/urls)_
 
 #### riak
 _not used yet_
